@@ -1,0 +1,3 @@
+\beamer@sectionintoc {2}{Problem Definition}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Image Super-Resolution}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Loss Function}{9}{0}{1}
