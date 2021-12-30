@@ -3,31 +3,56 @@
 \headcommand {\beamer@sectionpages {1}{1}}
 \headcommand {\beamer@subsectionpages {1}{1}}
 \headcommand {\sectionentry {1}{Outline}{2}{Outline}{0}}
-\headcommand {\slideentry {1}{0}{1}{2/4}{}{0}}
-\headcommand {\beamer@framepages {2}{4}}
-\headcommand {\beamer@sectionpages {2}{4}}
-\headcommand {\beamer@subsectionpages {2}{4}}
-\headcommand {\sectionentry {2}{Problem Definition}{5}{Problem Definition}{0}}
-\headcommand {\beamer@subsectionpages {5}{4}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{5}{Image Super-Resolution}}
-\headcommand {\slideentry {2}{1}{1}{5/9}{Image Super-Resolution}{0}}
-\headcommand {\beamer@framepages {5}{9}}
-\headcommand {\beamer@subsectionpages {5}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Loss Function}}
-\headcommand {\slideentry {2}{2}{1}{10/24}{Loss Function}{0}}
-\headcommand {\beamer@framepages {10}{24}}
-\headcommand {\beamer@sectionpages {5}{24}}
-\headcommand {\beamer@subsectionpages {10}{24}}
-\headcommand {\sectionentry {3}{Previous Attempts}{25}{Previous Attempts}{0}}
-\headcommand {\slideentry {3}{0}{1}{25/30}{}{0}}
-\headcommand {\beamer@framepages {25}{30}}
-\headcommand {\beamer@sectionpages {25}{30}}
-\headcommand {\beamer@subsectionpages {25}{30}}
-\headcommand {\sectionentry {4}{The Taken Approach}{31}{The Taken Approach}{0}}
-\headcommand {\slideentry {4}{0}{1}{31/37}{}{0}}
-\headcommand {\beamer@framepages {31}{37}}
-\headcommand {\beamer@partpages {1}{37}}
-\headcommand {\beamer@subsectionpages {38}{37}}
-\headcommand {\beamer@sectionpages {38}{37}}
-\headcommand {\beamer@documentpages {37}}
-\headcommand {\gdef \inserttotalframenumber {6}}
+\headcommand {\slideentry {1}{0}{1}{2/6}{}{0}}
+\headcommand {\beamer@framepages {2}{6}}
+\headcommand {\beamer@sectionpages {2}{6}}
+\headcommand {\beamer@subsectionpages {2}{6}}
+\headcommand {\sectionentry {2}{Problem Definition}{7}{Problem Definition}{0}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Image Super-Resolution}}
+\headcommand {\slideentry {2}{1}{1}{7/11}{Image Super-Resolution}{0}}
+\headcommand {\beamer@framepages {7}{11}}
+\headcommand {\beamer@subsectionpages {7}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{12}{Loss Function}}
+\headcommand {\slideentry {2}{2}{1}{12/26}{Loss Function}{0}}
+\headcommand {\beamer@framepages {12}{26}}
+\headcommand {\beamer@sectionpages {7}{26}}
+\headcommand {\beamer@subsectionpages {12}{26}}
+\headcommand {\sectionentry {3}{Previous Attempts}{27}{Previous Attempts}{0}}
+\headcommand {\slideentry {3}{0}{1}{27/32}{}{0}}
+\headcommand {\beamer@framepages {27}{32}}
+\headcommand {\beamer@sectionpages {27}{32}}
+\headcommand {\beamer@subsectionpages {27}{32}}
+\headcommand {\sectionentry {4}{The Taken Approach}{33}{The Taken Approach}{0}}
+\headcommand {\slideentry {4}{0}{1}{33/41}{}{0}}
+\headcommand {\beamer@framepages {33}{41}}
+\headcommand {\slideentry {4}{0}{2}{42/50}{}{0}}
+\headcommand {\beamer@framepages {42}{50}}
+\headcommand {\beamer@sectionpages {33}{50}}
+\headcommand {\beamer@subsectionpages {33}{50}}
+\headcommand {\sectionentry {5}{Results}{51}{Results}{0}}
+\headcommand {\slideentry {5}{0}{1}{51/51}{}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@subsectionpages {51}{51}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{52}{Qualitative}}
+\headcommand {\slideentry {5}{1}{1}{52/54}{Qualitative}{0}}
+\headcommand {\beamer@framepages {52}{54}}
+\headcommand {\beamer@subsectionpages {52}{54}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{55}{Quantitative}}
+\headcommand {\slideentry {5}{2}{1}{55/61}{Quantitative}{0}}
+\headcommand {\beamer@framepages {55}{61}}
+\headcommand {\beamer@sectionpages {51}{61}}
+\headcommand {\beamer@subsectionpages {55}{61}}
+\headcommand {\sectionentry {6}{Conclusion\& Future Works}{62}{Conclusion\& Future Works}{0}}
+\headcommand {\slideentry {6}{0}{1}{62/66}{}{0}}
+\headcommand {\beamer@framepages {62}{66}}
+\headcommand {\beamer@sectionpages {62}{66}}
+\headcommand {\beamer@subsectionpages {62}{66}}
+\headcommand {\sectionentry {7}{References}{67}{References}{0}}
+\headcommand {\slideentry {7}{0}{1}{67/67}{}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\beamer@partpages {1}{67}}
+\headcommand {\beamer@subsectionpages {67}{67}}
+\headcommand {\beamer@sectionpages {67}{67}}
+\headcommand {\beamer@documentpages {67}}
+\headcommand {\gdef \inserttotalframenumber {12}}

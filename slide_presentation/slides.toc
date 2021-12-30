@@ -1,5 +1,9 @@
-\beamer@sectionintoc {2}{Problem Definition}{5}{0}{1}
-\beamer@subsectionintoc {2}{1}{Image Super-Resolution}{5}{0}{1}
-\beamer@subsectionintoc {2}{2}{Loss Function}{10}{0}{1}
-\beamer@sectionintoc {3}{Previous Attempts}{25}{0}{2}
-\beamer@sectionintoc {4}{The Taken Approach}{31}{0}{3}
+\beamer@sectionintoc {2}{Problem Definition}{7}{0}{1}
+\beamer@subsectionintoc {2}{1}{Image Super-Resolution}{7}{0}{1}
+\beamer@subsectionintoc {2}{2}{Loss Function}{12}{0}{1}
+\beamer@sectionintoc {3}{Previous Attempts}{27}{0}{2}
+\beamer@sectionintoc {4}{The Taken Approach}{33}{0}{3}
+\beamer@sectionintoc {5}{Results}{51}{0}{4}
+\beamer@subsectionintoc {5}{1}{Qualitative}{52}{0}{4}
+\beamer@subsectionintoc {5}{2}{Quantitative}{55}{0}{4}
+\beamer@sectionintoc {6}{Conclusion\& Future Works}{62}{0}{5}
